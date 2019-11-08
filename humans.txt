@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Eric Le Gallais	eric@legallais.ca	@elegallais
 
 # THANKS
 
